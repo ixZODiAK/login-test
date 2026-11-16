@@ -21,5 +21,5 @@ function checkPassword(){
 btn.addEventListener("click",checkPassword);
 
 forgetPass.addEventListener("click", function() {
-    alert("Hint: The Password is bigger than 0 and smaller than 7 . Please try again.");
+    alert("Hint: The Password is 123456. Please try again.");
 });
